@@ -1,19 +1,13 @@
-<table>
-  <tr>
-    <td align="left" width="60%">
-      <h2>Hi 👋, I'm Abhishek</h2>
-      <p>
-        🚀 Final Year Computer Science Student <br><br>
-        📘 Into Java, DSA, Web3 & Database Solutions <br><br>
-        💡 Interested in contributing to innovative projects <br><br>
-        🤝 Looking forward to building great connections and collaborations!
-      </p>
-    </td>
-    <td align="right" width="40%">
-      <img src="hacker-setup.png" alt="Ethical Hacker Setup" width="300"/>
-    </td>
-  </tr>
-</table>
+<h2>Hi 👋, I'm Abhishek</h2>
+
+🚀 Final Year Computer Science Student  
+📘 Into Java, DSA, Web3 & Database Solutions  
+💡 Interested in contributing to innovative projects  
+🤝 Looking forward to building great connections and collaborations!
+
+<img src="ethical.png" alt="Ethical Hacker Setup" width="300" align="right" />
+
+---
 
 ### 🛠️ Languages & Tools
 
