@@ -10,12 +10,10 @@
       </p>
     </td>
     <td align="right" width="40%">
-      <img src="ethical.png" alt="Ethical Hacker Setup" width="300"/>
+      <img src="hacker-setup.png" alt="Ethical Hacker Setup" width="300"/>
     </td>
   </tr>
 </table>
-
----
 
 ### 🛠️ Languages & Tools
 
