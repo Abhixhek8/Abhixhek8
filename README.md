@@ -1,15 +1,19 @@
-<h2 align="center">Hi 👋, I'm Abhishek</h2>
-
-<p align="right">
-  <img src="ethical.png" alt="Ethical Hacker Setup" width="350"/>
-</p>
-
-<h4 align="center">
-🚀 Final Year Computer Science Student  
-<br>📘 Into Java, DSA, Web3 & Database Solutions  
-<br>💡 Interested in contributing to innovative projects  
-<br>🤝 Looking forward to building great connections and collaborations!
-</h4>
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h2>Hi 👋, I'm Abhishek</h2>
+      <p>
+        🚀 Final Year Computer Science Student <br><br>
+        📘 Into Java, DSA, Web3 & Database Solutions <br><br>
+        💡 Interested in contributing to innovative projects <br><br>
+        🤝 Looking forward to building great connections and collaborations!
+      </p>
+    </td>
+    <td align="right" width="40%">
+      <img src="ethical.png" alt="Ethical Hacker Setup" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
